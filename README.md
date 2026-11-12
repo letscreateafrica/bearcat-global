@@ -10,11 +10,11 @@ After extraction, follow the included README.md. To rebuild pages run `node buil
 
 ## Public site
 
-https://bearcat-global.letscreateafrica.chatgpt.site/
+https://sbuglobal.letscreateafrica.chatgpt.site/
 
-Full dated brief: https://bearcat-global.letscreateafrica.chatgpt.site/briefs/2026-11-12/
+Full dated brief: https://sbuglobal.letscreateafrica.chatgpt.site/briefs/2026-11-12/
 
-Visual newsletter: https://bearcat-global.letscreateafrica.chatgpt.site/newsletters/2026-11-12/
+Visual newsletter: https://sbuglobal.letscreateafrica.chatgpt.site/newsletters/2026-11-12/
 
 Weekly publication: Thursday at 6 a.m. Pacific.
 

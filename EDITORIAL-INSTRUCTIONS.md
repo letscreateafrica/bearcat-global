@@ -29,7 +29,7 @@ Finalize content.json, compose the cover with artwork/compose_heroes.py, and reu
 ## Publication
 
 Existing Site project: appgprj_6af62f5993788191bed57c054cc35250.
-Expected origin: https://bearcat-global.letscreateafrica.chatgpt.site (not proof of a deployed issue).
+Expected origin: https://sbuglobal.letscreateafrica.chatgpt.site (not proof of a deployed issue).
 
 Use the Sites source workflow and short-lived credentials via stdin only. Run node build.mjs and node verify.mjs, save the exact source commit and deploy the matching build. Verify terminal deployment success and actual dated page content before sharing a new URL. Preserve this Site and audience; never create duplicates.
 
