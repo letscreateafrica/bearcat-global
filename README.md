@@ -1,6 +1,6 @@
 # Bearcat Global
 
-Independent Student Rights & Opportunity Brief for African, Pakistani, Chinese and Indian undergraduate, graduate and PhD students at Southwest Baptist University.
+Independent Student Rights & Opportunity Brief for international students at Southwest Baptist University (SBU).
 
 ## Complete project
 
@@ -23,3 +23,7 @@ Weekly publication: Thursday at 6 a.m. Pacific.
 Independent publication; not an official SBU communication or university-endorsed service. The authentic SBU Bearcat logo belongs to Southwest Baptist University and is used unchanged to identify the audience. It appears on the finished web and visual materials. Other imagery is original editorial presentation artwork, not evidence.
 
 Information, not individual legal advice. Sources, original event dates, uncertainties and coverage records are included with the brief. No SBU or attorney review is claimed.
+
+## Shared homepage counter
+
+A persistent aggregate homepage counter starts from a disclosed baseline of 10 and increments on homepage visits/reloads. Automated checks count; assets, HEAD and prefetch do not. It stores no visitor identifiers. The project now includes its Worker, D1 schema migration, build-worker script and meaningful counter verification. Preserve the live database and never reset the total during future publications.

@@ -4,7 +4,7 @@
 
 Publish a full source-reviewed issue, matching visual newsletter and completed weekly digest on the existing Thursday 6:00 a.m. America/Los_Angeles schedule. Do not create another schedule. This weekly cadence supersedes copied two-day language. Research the full interval since the previous successful edition, with overlap for delayed publications; digest coverage must state exact dates. A manual issue may use a shorter explicitly stated window.
 
-Serve exclusively African, Pakistani, Chinese and Indian students at Southwest Baptist University, including undergraduate, graduate and PhD, enrolled, incoming and transfer students where relevant. Use https://www.sbuniv.edu/ as the authoritative university source. Distinguish citizenship, ethnicity, immigration category and program. Never treat Africa as a nationality.
+Serve international students at Southwest Baptist University (SBU), including undergraduate, graduate and PhD, enrolled, incoming and transfer students where relevant. Use https://www.sbuniv.edu/ as the authoritative university source. Distinguish citizenship, ethnicity, immigration category and program. Never treat Africa as a nationality.
 
 ## Research and evidence
 
@@ -38,3 +38,8 @@ Static publication is a build-and-deploy workflow, not a hosted data writer. A s
 GitHub: synchronize the same sanitized complete project to https://github.com/letscreateafrica/bearcat-global on main and verify its commit. Preserve repository identity and history. If write access fails, report the gap and preserve a complete project archive. Do not store credentials, tokens, student data, browser screenshots or private URLs. No unrelated historical tracker exists for this project; do not import the October 4–8 KYR records or cite a shared chat as a live feed.
 
 Privacy-first and politically neutral. No individualized legal advice or student data collection. End Information, not legal advice. Refer personal questions to the verified SBU DSO/PDSO or qualified counsel. Prepared with AI assistance; never claim human/SBU/attorney review unless it actually happened.
+
+
+## Persistent homepage counter
+
+Preserve the shared aggregate homepage visit counter. Its disclosed starting baseline is 10; do not reseed or reset existing totals. Count homepage GET navigations/reloads, excluding HEAD, prefetch and assets; automated visits are included. The Worker serves every existing public route and uses D1 binding DB. Preserve d1: DB and the applied schema-only migration. Run node build.mjs, node build-worker.mjs, node verify.mjs and node verify-counter.mjs before packaging; do not restore static-only hosting. This counter stores no visitor identifiers, IP addresses or event history. Keep the baseline and metric explanation visible. The counter is separate from the editorial publication writer.
