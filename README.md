@@ -27,3 +27,9 @@ Information, not individual legal advice. Sources, original event dates, uncerta
 ## Shared homepage counter
 
 A persistent aggregate homepage counter starts from a disclosed baseline of 10 and increments on homepage visits/reloads. Automated checks count; assets, HEAD and prefetch do not. It stores no visitor identifiers. The project now includes its Worker, D1 schema migration, build-worker script and meaningful counter verification. Preserve the live database and never reset the total during future publications.
+
+
+## Weekly STEM opportunity desk
+[Open verified opportunities](https://sbuglobal.letscreateafrica.chatgpt.site/opportunities/). Jobs, Scholarships, Fellowships and Impact News can be filtered across all nine SBU graduate STEM programs. Original-provider links, deadlines, eligibility and verification dates accompany listings. Closed entries and records older than seven days are withheld server-side. The same Thursday 6am Pacific briefing task now reviews opportunities. Handshake plus Google Careers, Microsoft Research, NVIDIA Research, P.E.O. International and ProFellow form the source directory.
+
+The homepage counter is compact and visible below navigation. Existing aggregate data is preserved. The full ZIP includes opportunities.json, the page builder, Worker freshness checks, branded artwork and verification scripts.
